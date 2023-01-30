@@ -13,4 +13,8 @@ hello git!
 hello git!
 hello git!
 2222222222
+
 master test
+
+hot-fix test
+>>>>>>> hot-fix
